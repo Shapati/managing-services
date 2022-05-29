@@ -1,0 +1,7 @@
+:root{
+  --textColor: #64607D;
+  --backgroundColor: #3734A9;
+}
+.App{
+  overflow:hidden;
+}
